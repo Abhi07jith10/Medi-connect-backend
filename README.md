@@ -9,6 +9,5 @@
 - ✅ Node.js initialized
 - ✅ Express server configured
 - ✅ Project folder structure created
-- 🔄 REST APIs in progress
-- ⏳ Database integration
-- ⏳ Authentication using JWT
+- Implemented mongoDB authenticated (22.07.2026)
+- 
