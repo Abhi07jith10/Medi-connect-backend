@@ -6,8 +6,10 @@
 - ✅ Dashboard UI
 
 ### Backend
-- ✅ Node.js initialized
-- ✅ Express server configured
-- ✅ Project folder structure created
-- Implemented mongoDB and authenticated (22.07.2026)
+## Backend Progress
+
+- Node.js and Express backend initialized
+- MongoDB Atlas database created
+- Database successfully connected using Mongoose
+- Environment variables configured using dotenv
 - 
