@@ -9,5 +9,5 @@
 - ✅ Node.js initialized
 - ✅ Express server configured
 - ✅ Project folder structure created
-- Implemented mongoDB authenticated (22.07.2026)
+- Implemented mongoDB and authenticated (22.07.2026)
 - 
