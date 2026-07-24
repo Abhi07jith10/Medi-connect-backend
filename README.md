@@ -20,15 +20,14 @@ Day 3
 - Built Login API — verifies password and returns JWT token
 - Tested both APIs in Postman successfully
 
-## 🚀 Latest Progress (Day 4)
+Day 4
 
-### ✅ Completed
 - Added JWT Authentication Middleware to protect routes.
 - Created Doctor and Patient controllers & routes.
 - Connected all routes to the Express server.
 - Tested Doctor and Patient APIs successfully using Postman.
 
-### 📌 API Status
+### API Status
 
 | Method | Endpoint | Status |
 |--------|----------|--------|
