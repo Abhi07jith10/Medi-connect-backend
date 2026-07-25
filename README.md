@@ -50,3 +50,16 @@ Day 4
 - [x] Accept Appointment API - Working
 - [x] Send Prescription API - Working
 - [x] Update Pharmacist Status API - Working
+
+
+ Day 6 C
+
+
+- Installed Axios in the frontend
+- Created API configuration file
+- Connected Login to the real backend
+- Connected Register to the real backend
+- Connected Doctor Dashboard to real MongoDB data
+- Connected Pharmacist Dashboard to real MongoDB data
+- Connected Patient Dashboard to real MongoDB data
+- User data persists on page refresh using Local Storage
