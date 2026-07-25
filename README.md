@@ -37,3 +37,16 @@ Day 4
 | POST | `/api/patients` | ✅ Working |
 | GET | `/api/patients` | ✅ Ready |
 | PUT | `/api/patients/:id` | ✅ Ready |
+
+# Day 5 Progress
+
+## Completed Tasks
+- [x] Created Appointment Controller and Routes
+- [x] Created Prescription Model, Controller, and Routes
+- [x] Connected all routes to server
+
+## API Testing Results
+- [x] Book Appointment API - Working
+- [x] Accept Appointment API - Working
+- [x] Send Prescription API - Working
+- [x] Update Pharmacist Status API - Working
