@@ -38,9 +38,9 @@ Day 4
 | GET | `/api/patients` | ✅ Ready |
 | PUT | `/api/patients/:id` | ✅ Ready |
 
-# Day 5 Progress
-
-## Completed Tasks
+ Day 5 
+ 
+ Completed Tasks
 - [x] Created Appointment Controller and Routes
 - [x] Created Prescription Model, Controller, and Routes
 - [x] Connected all routes to server
