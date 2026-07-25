@@ -52,7 +52,7 @@ Day 4
 - [x] Update Pharmacist Status API - Working
 
 
- Day 6 C
+ Day 6 
 
 
 - Installed Axios in the frontend
